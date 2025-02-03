@@ -1,1 +1,1 @@
-# hugo-kicking-the-tireshugo-kicking-the-tires
+# hugo-kicking-the-tires
