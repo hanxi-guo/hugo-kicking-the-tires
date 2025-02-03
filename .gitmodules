@@ -1,0 +1,3 @@
+[submodule "portfolio/themes/gokarna"]
+	path = portfolio/themes/gokarna
+	url = https://github.com/gokarna-theme/gokarna-hugo.git
